@@ -1,8 +1,6 @@
 # Roo Code Changelog
 
-## 3.17.3
-
-### Patch Changes
+## [3.17.3]
 
 - Fix settings import when global settings are omitted
 
